@@ -4,7 +4,7 @@
   
 Projeto voltado a expor exercicios e estudos realizados especificamente com a ferramenta PowerBi. Aqui serão expostos desde exercicios realizados nos cursos que estou realizado, quanto estudos pessoais com a ferramenta.
   
-![](https://tenor.com/view/study-gif-25028893)
+![](https://c.tenor.com/4JWRfsW5MpYAAAAC/study.gif)
   
 
 
